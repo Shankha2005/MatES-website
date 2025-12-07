@@ -1,0 +1,25 @@
+{
+  "name": "mates-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "import-static": "node scripts/import-static.js \"..\\mates-website\"",
+    "convert-pages": "node scripts/convert-html-to-pages.js \"..\\mates-website\"",
+    "migrate-static": "npm run import-static && npm run convert-pages"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.50.0",
+    "fs-extra": "11.2.0",
+    "glob": "10.3.10",
+    "htmlparser2": "9.1.0"
+  }
+}

@@ -501,7 +501,7 @@ export default function Page() {
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
       
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Shankha_technical.jpg" alt="" /></div>
+                                          <div className="pic"><img src="/img/Subcoords/Shankha_Technical.jpg" alt="" /></div>
       
                                           <div className="team-content"><h3 className="title">Shankhadeep
                                           </h3><span className="post">Technical</span></div>

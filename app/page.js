@@ -102,12 +102,13 @@ export default function Page() {
                     skills and knowledge and has encouraged them to participate in
                     various technical and non-technical events.
                   </p>
-                  <div className="caption text-left">
+                  <div style={{ display: "flex", justifyContent: "flex-start", width: "100%" }}>
                     <a
                       href="https://linktr.ee/stc.iitp"
                       target="_blank"
                       className="btn-get-started"
                       data-aos="fade-up"
+                      style={{ marginLeft: "0" }}
                     >
                       Explore More
                     </a>

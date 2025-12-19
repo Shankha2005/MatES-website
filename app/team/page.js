@@ -280,6 +280,24 @@ export default function Page() {
                               </ul>
                           </div>
                       </div>
+
+                      <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+      
+                          <div className="our-team">
+                              <div className="pic"><img src="/img/Coords/Diptanshu.jpg" alt="" /></div>
+                              
+                              <div className="team-content"><h3 className="title">Diptanshu</h3><span className="post">Design</span></div>
+                              
+                              <ul className="social">
+                                  <li className="d-flex flex-row justify-content-around align-item-center">
+                                      <a href="mailto:falendra_2101mm44@iitp.ac.in
+                                      "><i className="fa fs-2 fa-envelope"></i></a>
+                                      <a href="https://www.linkedin.com/in/falendra-kumar-0a895a2a0/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                      <a href="https://www.instagram.com/o_ly_falendra/?hl=en" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
                      
                     <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
       

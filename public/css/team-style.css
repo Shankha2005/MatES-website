@@ -245,7 +245,7 @@ margin-bottom:10px;
   bottom: 15px;
   font-family: Poppins;
   position: relative;
-  transition: all 0.5s ease-out 0s;
+  transition: none;
 }
 .our-team .title {
   font-size: 18px;

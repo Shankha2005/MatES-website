@@ -276,8 +276,8 @@ margin-bottom:10px;
   bottom: 20px;
 }
 .our-team:hover .team-content {
-  translate: 0 -100px;
-  opacity: 0;
+  translate: 0 -15px;
+  opacity: 0.7 !important;
 }
 .our-team .social li {
   display: flex;

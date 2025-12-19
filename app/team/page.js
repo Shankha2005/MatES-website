@@ -47,7 +47,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Coords/Deepesh.jpg" alt="Pratyush Manas" /></div>
                                           
-                                          <div className="team-content"><h3 className="name-static">Deepesh Kumar</h3><span className="post">Organizer</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Deepesh Kumar</h3><span className="post">Organizer</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -69,7 +69,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Coords/Abhinay_ MPR.jpg" alt="" /></div>
                                           
-                                          <div className="team-content"><h3 className="name-static">Abhinay</h3><span className="post">Media and public relations</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Abhinay</h3><span className="post">Media and public relations</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -88,7 +88,7 @@ export default function Page() {
                                     <div className="our-team">
                                         <div className="pic"><img src="/img/Coords/Abhishek_MediaRelations.jpg" alt="" /></div>
                                         
-                                        <div className="team-content"><h3 className="name-static">Abhishek</h3><span className="post">Media and public relations</span></div>
+                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Abhishek</h3><span className="post">Media and public relations</span></div>
                                         
                                         <ul className="social">
                                             <li className="d-flex flex-row justify-content-around align-item-center">
@@ -106,7 +106,7 @@ export default function Page() {
                                     <div className="our-team">
                                         <div className="pic"><img src="/img/Coords/Ananta_MediaRelations.jpg" alt="" /></div>
                                         
-                                        <div className="team-content"><h3 className="name-static">Ananta</h3><span className="post">Media and public relations</span></div>
+                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Ananta</h3><span className="post">Media and public relations</span></div>
                                         
                                         <ul className="social">
                                             <li className="d-flex flex-row justify-content-around align-item-center">
@@ -124,7 +124,7 @@ export default function Page() {
                                     <div className="our-team">
                                         <div className="pic"><img src="/img/Coords/Nishanth_MediaRelations.jpg" alt="" /></div>
                                         
-                                        <div className="team-content"><h3 className="name-static">Nishanth</h3><span className="post">Media and public relations</span></div>
+                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Nishanth</h3><span className="post">Media and public relations</span></div>
                                         
                                         <ul className="social">
                                             <li className="d-flex flex-row justify-content-around align-item-center">
@@ -142,7 +142,7 @@ export default function Page() {
                                     <div className="our-team">
                                         <div className="pic"><img src="/img/Coords/VirajKulkarni_MPR.jpg" alt="" /></div>
                                         
-                                        <div className="team-content"><h3 className="name-static">Viraj Kulkarni</h3><span className="post">Media and public relations</span></div>
+                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Viraj Kulkarni</h3><span className="post">Media and public relations</span></div>
                                         
                                         <ul className="social">
                                             <li className="d-flex flex-row justify-content-around align-item-center">
@@ -160,7 +160,7 @@ export default function Page() {
                                   <div className="our-team">
                                       <div className="pic"><img src="/img/Coords/Anshul_Events.JPG" alt="" /></div>
                                       
-                                      <div className="team-content"><h3 className="name-static">Anshul</h3><span className="post">Events</span></div>
+                                      <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Anshul</h3><span className="post">Events</span></div>
                                       
                                       <ul className="social">
                                           <li className="d-flex flex-row justify-content-around align-item-center">
@@ -179,7 +179,7 @@ export default function Page() {
                                 <div className="our-team">
                                     <div className="pic"><img src="/img/Coords/Masthan_Events.jpg" alt="" /></div>
                                     
-                                    <div className="team-content"><h3 className="name-static">Masthan</h3><span className="post">Events</span></div>
+                                    <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Masthan</h3><span className="post">Events</span></div>
                                     
                                     <ul className="social">
                                         <li className="d-flex flex-row justify-content-around align-item-center">
@@ -198,7 +198,7 @@ export default function Page() {
                               <div className="our-team">
                                   <div className="pic"><img src="/img/Coords/Rakesh Kumar __Events.jpg" alt="" /></div>
                                   
-                                  <div className="team-content"><h3 className="name-static">Rakesh Kumar</h3><span className="post">Events</span></div>
+                                  <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Rakesh Kumar</h3><span className="post">Events</span></div>
                                   
                                   <ul className="social">
                                       <li className="d-flex flex-row justify-content-around align-item-center">
@@ -214,7 +214,7 @@ export default function Page() {
                             <div className="our-team">
                                 <div className="pic"><img src="/img/Coords/rishabh_events.jpg" alt="" /></div>
                                 
-                                <div className="team-content"><h3 className="name-static">Rishabh Kumar</h3><span className="post">Events</span></div>
+                                <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Rishabh Kumar</h3><span className="post">Events</span></div>
                                 
                                 <ul className="social">
                                     <li className="d-flex flex-row justify-content-around align-item-center">
@@ -233,7 +233,7 @@ export default function Page() {
                           <div className="our-team">
                               <div className="pic"><img src="/img/Coords/Sagar_Events.jpg" alt="" /></div>
                               
-                              <div className="team-content"><h3 className="name-static">Sagar</h3><span className="post">Events</span></div>
+                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Sagar</h3><span className="post">Events</span></div>
                               
                               <ul className="social">
                                   <li className="d-flex flex-row justify-content-around align-item-center">
@@ -250,7 +250,7 @@ export default function Page() {
                           <div className="our-team">
                               <div className="pic"><img src="/img/Coords/vishal_ design.jpg" alt="" /></div>
                               
-                              <div className="team-content"><h3 className="name-static">Vishal</h3><span className="post">Design</span></div>
+                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Vishal</h3><span className="post">Design</span></div>
                               
                               <ul className="social">
                                   <li className="d-flex flex-row justify-content-around align-item-center">
@@ -268,7 +268,7 @@ export default function Page() {
                           <div className="our-team">
                               <div className="pic"><img src="/img/Coords/Hemanth_sonu_designer.jpg" alt="" /></div>
                               
-                              <div className="team-content"><h3 className="name-static">Hemanth</h3><span className="post">Design</span></div>
+                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Hemanth</h3><span className="post">Design</span></div>
                               
                               <ul className="social">
                                   <li className="d-flex flex-row justify-content-around align-item-center">
@@ -286,7 +286,7 @@ export default function Page() {
                           <div className="our-team">
                               <div className="pic"><img src="/img/Coords/Diptanshu.jpg" alt="" /></div>
                               
-                              <div className="team-content"><h3 className="name-static">Diptanshu</h3><span className="post">Design</span></div>
+                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Diptanshu</h3><span className="post">Design</span></div>
                               
                               <ul className="social">
                                   <li className="d-flex flex-row justify-content-around align-item-center">
@@ -304,7 +304,7 @@ export default function Page() {
                       <div className="our-team">
                           <div className="pic"><img src="/img/Coords/ajay kumar saini _ technical.webp" alt="" /></div>
                           
-                          <div className="team-content"><h3 className="name-static">Ajay Kumar Saini</h3><span className="post">Technical</span></div>
+                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Ajay Kumar Saini</h3><span className="post">Technical</span></div>
                           
                           <ul className="social">
                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -321,7 +321,7 @@ export default function Page() {
                       <div className="our-team">
                           <div className="pic"><img src="/img/Coords/Prabhraj_technical.jpg" alt="" /></div>
                           
-                          <div className="team-content"><h3 className="name-static">Prabhraj</h3><span className="post">Technical</span></div>
+                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Prabhraj</h3><span className="post">Technical</span></div>
                           
                           <ul className="social">
                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -341,7 +341,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Aman_ Public Relations.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Aman</h3><span className="post">Media and public relations</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Aman</h3><span className="post">Media and public relations</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -360,7 +360,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Aditya_PublicRelations.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Aditya</h3><span className="post">Media and public relations</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Aditya</h3><span className="post">Media and public relations</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -380,7 +380,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Alok_PublicRelations.webp" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Alok Kumar
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Alok Kumar
                                           </h3><span className="post">Media and public relations</span></div>
                                           
                                           <ul className="social">
@@ -400,7 +400,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Deependra_PublicRelations.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Deependra</h3><span className="post">Media and public relations</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Deependra</h3><span className="post">Media and public relations</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -420,7 +420,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Shailja Mathuria .jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Shailja Mathuria</h3><span className="post">Media and public relations</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Shailja Mathuria</h3><span className="post">Media and public relations</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -440,7 +440,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Abhijeet_Events.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Abhijeet</h3><span className="post">Events</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Abhijeet</h3><span className="post">Events</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -458,7 +458,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Akshaya_Events.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Akshaya 
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Akshaya 
                                           </h3><span className="post">Events</span></div>
                                           
                                           <ul className="social">
@@ -479,7 +479,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Meghana_Events.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Meghana
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Meghana
                                           </h3><span className="post">Events</span></div>
                                           
                                           <ul className="social">
@@ -500,7 +500,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Anand.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Anand
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Anand
                                           </h3><span className="post">Events</span></div>
                                           
                                           <ul className="social">
@@ -521,7 +521,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Shankha_Technical.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Shankhadeep
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Shankhadeep
                                           </h3><span className="post">Technical</span></div>
                                           
                                           <ul className="social">
@@ -542,7 +542,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Digvijay_Technical.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Digvijay
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Digvijay
                                           </h3><span className="post">Technical</span></div>
                                           
                                           <ul className="social">
@@ -562,7 +562,7 @@ export default function Page() {
       
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Parnava_Design.jpg" alt="" /></div>
-                                          <div className="team-content"><h3 className="name-static">Parnava
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Parnava
                                           </h3><span className="post">Design</span></div>
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -581,7 +581,7 @@ export default function Page() {
       
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/bhuvan_design.jpg" alt="" /></div>
-                                          <div className="team-content"><h3 className="name-static">Bhuvaneswar
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Bhuvaneswar
                                           </h3><span className="post">Design</span></div>
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
@@ -601,7 +601,7 @@ export default function Page() {
                                       <div className="our-team">
                                           <div className="pic"><img src="/img/Subcoords/Shashi Raghava _Design.jpg" alt="" /></div>
       
-                                          <div className="team-content"><h3 className="name-static">Shashi Raghava</h3><span className="post">Design</span></div>
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none" }}>Shashi Raghava</h3><span className="post">Design</span></div>
                                           
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">

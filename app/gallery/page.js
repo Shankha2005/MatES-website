@@ -109,7 +109,7 @@ export default function Page() {
           <div className="tile" id="tile-1">
             <div className="page-section spad pb50">
               <div className="container_gallery">
-                <div>
+                <div className="text-center">
                   <h1 className="sp-title gallery-title animate-title">Our Gallery</h1>
                   <p className="gallery-subtitle">Capturing moments that matter</p>
                 </div>

@@ -102,12 +102,13 @@ export default function Page() {
                     skills and knowledge and has encouraged them to participate in
                     various technical and non-technical events.
                   </p>
-                  <div className="caption">
+                  <div style={{ display: "flex", justifyContent: "flex-start", width: "100%" }}>
                     <a
                       href="https://linktr.ee/stc.iitp"
                       target="_blank"
                       className="btn-get-started"
                       data-aos="fade-up"
+                      style={{ marginLeft: "0" }}
                     >
                       Explore More
                     </a>
@@ -185,12 +186,12 @@ export default function Page() {
             {/*Events Section end*/}
       
             {/* Gallery section start */}
-            <section className="cta" style={{ marginTop: "50px" }}>
-              <h1>WE STAND AHEAD IN QUALITY</h1>
-              <a href="/gallery" className="btn-get-started" data-aos="fade-right"
-                >VIEW GALLERY</a
-              >
-            </section>
+              <section className="cta text-center" style={{ marginTop: "50px", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
+                <h1>WE STAND AHEAD IN QUALITY</h1>
+                <a href="/gallery" className="btn-get-started" data-aos="fade-up">
+                  VIEW GALLERY
+                </a>
+              </section>
           </main>
           {/*MAIN section ends---------------------------------------------------------------*/}
       
@@ -223,7 +224,7 @@ export default function Page() {
                           className="fa fa-facebook"
                           title="Facebook"
                           target="_blank"
-                          ><i className="icofont-facebook"></i
+                          ><i className="fa fa-facebook"></i
                         ></a>
                       </li>
                       <li>
@@ -232,7 +233,7 @@ export default function Page() {
                           className="fa fa-instagram"
                           title="Instagram"
                           target="_blank"
-                          ><i className="icofont-instagram"></i
+                          ><i className="fa fa-instagram"></i
                         ></a>
                       </li>
                       <li>
@@ -241,7 +242,7 @@ export default function Page() {
                           className="fa fa-linkedin"
                           title="Linkedin"
                           target="_blank"
-                          ><i className="icofont-linkedin"></i
+                          ><i className="fa fa-linkedin"></i
                         ></a>
                       </li>
                     </ul>

@@ -240,6 +240,8 @@ margin-bottom:10px;
   transform: translate(0, 21px);
   position: relative;
   z-index: 2;
+  object-fit: cover;   
+  object-position: top;
 }
 .our-team .team-content {
   bottom: 15px;

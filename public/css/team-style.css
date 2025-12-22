@@ -242,7 +242,7 @@ margin-bottom:10px;
   position: relative;
   z-index: 2;
   object-fit: cover;   
-  object-position: center 20%;
+  object-position: top;
 }
 .our-team .team-content {
   bottom: 15px;

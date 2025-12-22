@@ -225,7 +225,7 @@ margin-bottom:10px;
 .our-team .pic {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 4; 
+  aspect-ratio: 1 / 1;   
   overflow: hidden;
   position: relative;
   background: #f8f9fa;
@@ -234,18 +234,17 @@ margin-bottom:10px;
 .our-team .pic img {
   width: 100%;
   height: 100%;
-  object-fit: cover;      
-  object-position: top;    
+  object-fit: cover;    
+  object-position: top;   
+  border-radius: 0;       
+  transform: none !important; 
   transition: transform 0.5s ease;
-  transform: none;        
-  border-radius: 0;
 }
 .our-team .team-content {
   position: relative;
-  padding: 20px 15px;      /* Spacing around the name */
+  padding: 20px 15px;     
   background: #fff;
   z-index: 5;
-  /* Resetting old positioning hacks */
   bottom: auto;
   top: auto;
   opacity: 1 !important;
@@ -281,7 +280,7 @@ margin-bottom:10px;
 }
 
 .our-team:hover .pic img {
-  transform: scale(1.05);
+  transform: scale(1.1) !important;
 }
 .our-team:hover .team-content {
   translate: 0 -15px;

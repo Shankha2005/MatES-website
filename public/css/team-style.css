@@ -225,7 +225,7 @@ margin-bottom:10px;
 
 .our-team .pic {
   display: inline-block;
-  width: 72%;
+  width: 100%;
   aspect-ratio: 1.084;
   margin-bottom: 50px;
   z-index: 1;
@@ -238,9 +238,10 @@ margin-bottom:10px;
   transition: all 0.9s ease 0s;
   /* box-shadow: 0 0 0 14px #f7f5ec; */
   transform: translate(0, 21px);
+  background-color: #f8f9fa;
   position: relative;
   z-index: 2;
-  object-fit: cover;   
+  object-fit: contain;   
   object-position: top;
 }
 .our-team .team-content {

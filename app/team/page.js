@@ -122,24 +122,6 @@ export default function Page() {
                                 <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
       
                                     <div className="our-team">
-                                        <div className="pic"><img src="/img/Coords/Nishanth_MediaRelations.jpg" alt="" /></div>
-                                        
-                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Nishanth</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                        
-                                        <ul className="social">
-                                            <li className="d-flex flex-row justify-content-around align-item-center">
-                                                <a href="mailto:mohit_2101mm11@iitp.ac.in
-                                                "><i className="fa fs-2 fa-envelope"></i></a>
-                                                <a href="https://www.linkedin.com/in/mohit-kumar-941a54201/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                    <div className="our-team">
                                         <div className="pic"><img src="/img/Coords/VirajKulkarni_MPR.jpg" alt="" /></div>
                                         
                                         <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Viraj Kulkarni</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
@@ -240,24 +222,6 @@ export default function Page() {
                                       <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
                                       <a href="#"><i className="fa fs-2 fa-linkedin"></i></a>
                                       <a href="#"><i className="fa fs-2 fa-instagram"></i></a>
-                                  </li>
-                              </ul>
-                          </div>
-                      </div>
-
-                        <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                          <div className="our-team">
-                              <div className="pic"><img src="/img/Coords/vishal_ design.jpg" alt="" /></div>
-                              
-                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Vishal</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
-                              
-                              <ul className="social">
-                                  <li className="d-flex flex-row justify-content-around align-item-center">
-                                      <a href="mailto:falendra_2101mm44@iitp.ac.in
-                                      "><i className="fa fs-2 fa-envelope"></i></a>
-                                      <a href="https://www.linkedin.com/in/falendra-kumar-0a895a2a0/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                      <a href="https://www.instagram.com/o_ly_falendra/?hl=en" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                   </li>
                               </ul>
                           </div>

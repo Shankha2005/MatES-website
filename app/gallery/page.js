@@ -27,6 +27,19 @@ export default function Page() {
     { id: 21, src: '/img/Gallery/21.webp', size: 'normal' },
     { id: 22, src: '/img/Gallery/22.webp', size: 'normal' },
     { id: 24, src: '/img/Gallery/24.webp', size: 'normal' },
+
+   
+    { id: 26, src: '/img/Gallery/26.webp', size: 'normal' },
+    { id: 27, src: '/img/Gallery/27.webp', size: 'normal' },
+    { id: 28, src: '/img/Gallery/28.webp', size: 'normal' },
+    { id: 29, src: '/img/Gallery/29.webp', size: 'normal' },
+    { id: 30, src: '/img/Gallery/30.webp', size: 'normal' },
+    { id: 31, src: '/img/Gallery/31.webp', size: 'normal' },
+    { id: 32, src: '/img/Gallery/32.webp', size: 'normal' },
+    { id: 33, src: '/img/Gallery/33.webp', size: 'normal' },
+    { id: 34, src: '/img/Gallery/34.webp', size: 'normal' },
+    { id: 35, src: '/img/Gallery/35.webp', size: 'normal' },
+    
   ];
 
   useEffect(() => {

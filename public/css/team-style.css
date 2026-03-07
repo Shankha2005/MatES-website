@@ -225,19 +225,22 @@ margin-bottom:10px;
 
 .our-team .pic {
   display: inline-block;
-  width: 72%;
-  aspect-ratio: 1.084;
-  margin-bottom: 50px;
+  width: 120px; 
+  height: 120px; 
+  margin: 20px auto 30px; 
   z-index: 1;
   position: relative;
+  border-radius: 50%; 
+  overflow: hidden;
+  border: 3px solid #39ffbf;
 }
 .our-team .pic img {
   width: 100%;
   height: 100%;
-  border-radius: 5px;
+  object-fit: cover;
+  object-position: center; 
   transition: all 0.9s ease 0s;
-  /* box-shadow: 0 0 0 14px #f7f5ec; */
-  transform: translate(0, 21px);
+  transform: scale(1); 
   position: relative;
   z-index: 2;
 }
@@ -248,7 +251,7 @@ margin-bottom:10px;
   transition: none;
 }
 .our-team .title {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   color: #4e5052;
   letter-spacing: 1px;
@@ -258,48 +261,47 @@ margin-bottom:10px;
 }
 .our-team .post {
   display: block;
-  font-size: 12px;
+  font-size: 11px;
   color: #4e5052;
   text-transform: capitalize;
   font-family: Poppins;
 }
 .our-team .social {
-  width: 72%;
-  padding-top: 10px;
+  width: 100%;
+  padding: 10px 0;
   margin: 0;
   position: absolute;
   bottom: -100px;
-  left: calc(50% - calc(72% / 2));
+  left: 0;
   transition: all 0.5s ease 0s;
+  background: rgba(255, 255, 255, 0.9); 
+  border-radius: 0 0 10px 10px;
 }
 .our-team:hover .social {
-  bottom: 20px;
+  bottom: 0;
 }
 .our-team:hover .team-content {
-  translate: 0 -100px;
   opacity: 0;
 }
 .our-team .social li {
-  display: flex;
+  display: inline-block;
+  margin: 0 8px;
 }
 .our-team .social li a {
   display: block;
-  padding-top: 3px;
+  padding: 5px;
   font-size: 18px;
   color: #000;
-  margin-bottom: 12px;
   transition: all 0.3s ease 0s;
 }
 .our-team .social li a:hover {
-  color: #dcbf30;
+  color: #39ffbf;
 }
 @media only screen and (max-width: 990px) {
   .our-team {
     margin-bottom: 30px;
   }
 }
-
-/* Large Mobile :480px. */
 
 @media only screen and (max-width: 767px) {
   .page-header-section .header-title {
